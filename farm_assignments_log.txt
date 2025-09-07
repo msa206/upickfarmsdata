@@ -1,0 +1,834 @@
+
+==================================================
+Farm Research Batch - 2025-09-07 04:30:45.563450
+==================================================
+
+AGENT_1 - 20 farms:
+----------------------------------------
+ 1. Annie's Orchard (ID: 1421)
+    West Lafayette, Indiana
+    https://www.facebook.com/profile.php?id=100068645952490
+
+ 2. Riverbed Farm (ID: 1097)
+    Anaheim, California
+    http://www.theriverbedfarm.com/
+
+ 3. Granny Pearls Farm (ID: 1778)
+    Zebulon, North Carolina
+    https://m.facebook.com/106930555038866/
+
+ 4. Vigil Farms (ID: 1711)
+    Colorado Springs, Colorado
+    http://www.vigilfarms.com/home.html
+
+ 5. Apple Road Farm (ID: 1665)
+    Carthage, Missouri
+    https://m.facebook.com/Apple-Road-Farm-182786928457444/
+
+ 6. Goodman Family Farm (ID: 1482)
+    Ruffs Dale, Pennsylvania
+    https://www.facebook.com/GoodmanFamilyFarm
+
+ 7. Heagy's Orchard (ID: 1401)
+    Meadville, Pennsylvania
+    https://www.heagysorchard.com/
+
+ 8. Middleburg Farm Swap- Strawbrries (ID: 2371)
+    , 
+    
+
+ 9. Blue Jay Orchard (ID: 1368)
+    Hiram, Ohio
+    http://bluejayorchard.com/
+
+10. Under The Vine - Dragon Fruit Farm (ID: 2468)
+    , 
+    http://underthevinefarm.com/
+
+11. Eastburn Farm (ID: 2105)
+    Newtown, Pennsylvania
+    
+
+12. Shingle Mill Blueberry Farm (ID: 1226)
+    Sandpoint, Idaho
+    https://www.facebook.com/Omodts
+
+13. G&S Farms-Denali (ID: 1197)
+    Brentwood, California
+    http://gsfarms.net/
+
+14. Miller Orchards (ID: 1383)
+    Peshastin, Washington
+    https://www.facebook.com/millerorchardspeshastinwa
+
+15. LaCoe's Berry Nice Farm (ID: 1655)
+    Clarks Summit, Pennsylvania
+    https://www.facebook.com/pg/LacoesBerryNiceFarm/about/?ref=page_internal
+
+16. Woods Farm (ID: 1686)
+    Boones Mill, Virginia
+    https://www.facebook.com/Woods-Farms-199475873434384/
+
+17. Fancy Farms (ID: 2281)
+    , 
+    https://fancyfarmsmarket.com/
+
+18. Blue Moon Berries (ID: 2502)
+    Powder Springs, Georgia
+    http://www.southernbellefarm.com/
+
+19. JQ Fruit Farm & Orchard (ID: 1170)
+    Princeton, Minnesota
+    https://www.jqfruitfarm.com/
+
+20. Richie's Blueberries (ID: 2405)
+    , 
+    https://www.facebook.com/Richies-Blueberries-694412404318285
+
+
+AGENT_2 - 20 farms:
+----------------------------------------
+ 1. Foothill Farm (ID: 1613)
+    Lehighton, Pennsylvania
+    
+
+ 2. Happy Farm (ID: 2100)
+    South Richmond Hill, New York
+    
+
+ 3. Endless View Farms (ID: 1659)
+    Crimora, Virginia
+    http://www.endlessviewfarms.com/
+
+ 4. L & J Edelen & Family's Homestead Farm (ID: 2160)
+    Faulkner, Maryland
+    http://homesteadfarm.us/
+
+ 5. Turkey Hill Farm (ID: 2465)
+    , 
+    http://www.localharvest.org/
+
+ 6. Sunrise U-pick Blueberries (ID: 1784)
+    Hillsboro, Oregon
+    https://www.facebook.com/SunriseBlueberry/
+
+ 7. West Wind Farm at Blue Barn Cidery (ID: 959)
+    Hilton, New York
+    http://www.westwindupick.com/
+
+ 8. Green Things Farm Collective (ID: 1527)
+    Ann Arbor, Michigan
+    https://greenthingsfarm.com/
+
+ 9. Fort Kluk Farm (ID: 2106)
+    Sugarcreek Township, Ohio
+    http://www.facebook.com/fortklukohio/
+
+10. Red Rock Farms (ID: 1918)
+    Thurmont, Maryland
+    
+
+11. Spring Rain Farm (ID: 1518)
+    East Taunton, Massachusetts
+    https://oldearthorchards.com/spring-rain-farm/
+
+12. Sutton Farms (ID: 1648)
+    Deltona, Florida
+    
+
+13. Berry Fields Farms (ID: 1911)
+    New Albany, Pennsylvania
+    
+
+14. Logue Farms, Inc. (ID: 1381)
+    Woodbury, Connecticut
+    
+
+15. Chilly Hollow Farm (ID: 2009)
+    Berryville, Virginia
+    http://chillyhollowproduce.com/
+
+16. Smith's farms pumpkin patch (ID: 1390)
+    Bowersville, Georgia
+    
+
+17. Imagine Farms (ID: 1960)
+    Miami, Florida
+    https://www.imaginefarms.com/
+
+18. Deauville Farm (Gail's Garden) (ID: 1928)
+    Edinburg, Virginia
+    http://www.doevillethemovie.com/
+
+19. Clement Blueberry Farm (ID: 1755)
+    Pemberton, New Jersey
+    https://www.clementblueberries.com/
+
+20. Burek Farms (ID: 1276)
+    La Porte, Indiana
+    https://burekfarms.com/
+
+
+AGENT_3 - 20 farms:
+----------------------------------------
+ 1. Mountain Orchard (ID: 2181)
+    Granville, Massachusetts
+    https://www.mountainorchard.com/
+
+ 2. Knaus Berry Farm (ID: 2347)
+    , 
+    http://www.knausberryfarm.com/
+
+ 3. Currier Orchards, LLC (ID: 1451)
+    Merrimack, New Hampshire
+    https://www.currierorchards.com/
+
+ 4. Smith Ridge Farms (ID: 2005)
+    Browns Summit, North Carolina
+    
+
+ 5. True Blue Farms (ID: 1351)
+    Grand Junction, Michigan
+    http://truebluefarms.com/
+
+ 6. Orchard Pond (ID: 2385)
+    , 
+    http://www.orchardpond.com/
+
+ 7. Elwood Orchard (ID: 1815)
+    North Scituate, Rhode Island
+    http://www.elwoodorchard.com/
+
+ 8. Red Cedar Valley Farms (ID: 1967)
+    Menomonie, Wisconsin
+    http://rcvf.com/
+
+ 9. Sweetberries of Crawford Farms (ID: 2439)
+    , 
+    https://m.facebook.com/sweetberriesofcrawfordfarms/
+
+10. By Faith Farm (ID: 1599)
+    Joelton, Tennessee
+    https://www.byfaithfarm.com/
+
+11. Silver Queen Farm (ID: 1332)
+    Trumansburg, New York
+    http://silverqueenfarmny.com/
+
+12. Yancey Blueberry Silver Springs (ID: 1282)
+    Silver Springs, Florida
+    https://yanceysblueberryfarm.com/
+
+13. Best Berry Farm (ID: 1675)
+    East Greenbush, New York
+    https://www.facebook.com/Best-Berry-Farm-399166500142981/
+
+14. WestSide Tilth Farm (ID: 1807)
+    Buffalo, New York
+    http://westsidetilth.com/
+
+15. Summerset Farm (ID: 1353)
+    Santa Ynez, California
+    https://www.summersetfarmsyv.com/
+
+16. Dickinson Farm Apple Barn (ID: 1398)
+    Granby, Massachusetts
+    http://www.dickinsonsfarm.com/
+
+17. Clayton Rawl Farms (ID: 2169)
+    West Columbia, South Carolina
+    https://www.rawlfarms.com/
+
+18. Valhalla Farms LLC (ID: 1975)
+    Rochester, Indiana
+    http://www.valhallafarms.net/
+
+19. Hillcrest Farms & Greenhouse (ID: 1534)
+    Verona, New Jersey
+    https://www.hillcrestfarms.biz/
+
+20. A Different Chick Farm and Orchard (ID: 1986)
+    Johnson City, Tennessee
+    http://www.adifferentchickfarm.com/
+
+
+AGENT_4 - 20 farms:
+----------------------------------------
+ 1. Cedar Heights Orchards (ID: 1952)
+    Rhinebeck, New York
+    http://www.rhinebeckapples.com/
+
+ 2. Thomas Farm (ID: 1635)
+    Drums, Pennsylvania
+    https://www.facebook.com/thomasfarmpa/
+
+ 3. U-Pick Apple Orchard (ID: 1760)
+    Oak Glen, CA
+    
+
+ 4. Strawberry Farm (ID: 1336)
+    Anaheim, California
+    
+
+ 5. Maxwell's Farm (ID: 1553)
+    Cape Elizabeth, ME
+    http://www.maxwellsfarm.com/
+
+ 6. Keel Farms (ID: 2342)
+    , 
+    http://www.keelfarms.com/
+
+ 7. Shockley Farms (ID: 1535)
+    Cape Charles, Virginia
+    
+
+ 8. Hoskins U-Pick Blueberry Farm (ID: 2187)
+    Oquawka, Illinois
+    
+
+ 9. North River Farms (ID: 2008)
+    Mills River, North Carolina
+    http://www.northriverfarms.co/
+
+10. Valley Dream Farm (ID: 1767)
+    Cambridge, Vermont
+    https://www.valleydreamfarm.com/
+
+11. Peaches on Laws Road (ID: 2396)
+    , 
+    http://www.peachesonlawsroad.com/
+
+12. 🌳 Canaan Apple Orchard 🍎 Closed for season. See you in 2025! 🕊️ (ID: 1657)
+    Climax, Michigan
+    
+
+13. Miller's Hill Farm (ID: 1881)
+    Mendham Township, New Jersey
+    https://www.millershillfarm.com/
+
+14. Swope’s Farm (ID: 1304)
+    McDonald, Pennsylvania
+    http://brownsorchardandcider.com/
+
+15. U-Pick Strawberries - Starvish Farm (ID: 1678)
+    East Windsor, Connecticut
+    https://upickstrawberries.wordpress.com/
+
+16. Yumm Strawberry Farm (ID: 1861)
+    Elk Grove, California
+    https://www.instagram.com/yumm_strawberryy?igsh=MzRlODBiNWFlZA==
+
+17. Cross Island Farms (ID: 2057)
+    Wellesley Island, New York
+    http://www.crossislandfarms.com/
+
+18. The Barden Farm (ID: 1762)
+    New Hartford, Connecticut
+    http://www.bardenfarm.com/
+
+19. Great Joy Family Farm (ID: 1325)
+    Pine Bush, New York
+    https://www.greatjoyfamilyfarm.com/
+
+20. Beech Road Blueberry Farm (ID: 1638)
+    Wakarusa, Indiana
+    http://beechroadblueberryfarm.com/
+
+
+AGENT_5 - 20 farms:
+----------------------------------------
+ 1. Seasons Farm Fresh (ID: 2418)
+    , 
+    http://seasonsfarmfresh.com/
+
+ 2. Ruby Hill Farm (ID: 1859)
+    Clinton Corners, New York
+    http://www.rubyhillfarm.com/
+
+ 3. Blue Moon Berry Farm (ID: 1642)
+    Warner, New Hampshire
+    https://www.facebook.com/bluemoonberryfarm/
+
+ 4. Down To Earth Farm (ID: 2267)
+    , 
+    https://www.farmersmarketjacksonvillefl.com/down-to-earth-farm/
+
+ 5. Sonrose Farm (ID: 2045)
+    Browns Mills, New Jersey
+    
+
+ 6. Yellow Stonehouse Farm (ID: 2180)
+    Westfield, Massachusetts
+    http://www.yellowstonehousefarmcsa.com/
+
+ 7. Godfrey's Farm (ID: 1489)
+    Sudlersville, Maryland
+    http://www.godfreysfarm.com/
+
+ 8. Leidig's Farms (ID: 1756)
+    Tyrone, Pennsylvania
+    
+
+ 9. Backer Farm Pastured Meats, Eggs, and Hay (ID: 1716)
+    Mendham Township, New Jersey
+    http://www.backerfarm.com/
+
+10. Lake Mills U-Pick (ID: 2352)
+    , 
+    https://www.facebook.com/lakemillsUpick
+
+11. Indyks Farm (ID: 1751)
+    Monroe Township, New Jersey
+    
+
+12. Three Sons Farm & Produce Pick your own F, S,S (ID: 2455)
+    , 
+    https://www.facebook.com/ThreeSonFarms
+
+13. Thistle Moon Farmstead (FKA: Wilton Blueberry Farm) (ID: 2118)
+    Wilton, Maine
+    https://thistlemoonfarmstead.com/
+
+14. The Strawberry Farm (ID: 2453)
+    , 
+    http://www.facebook.com/thestrawberryfarms
+
+15. Hillview Blueberry Farm (ID: 2053)
+    Prattsburgh, New York
+    https://hillviewblueberryfarm.com/
+
+16. Oak Ridge Farms (ID: 1969)
+    Neenah, Wisconsin
+    
+
+17. Generation Pines Farm (ID: 1480)
+    Freehold, New Jersey
+    
+
+18. Four Star Tomato Inc (ID: 2291)
+    , 
+    
+
+19. Clonts Farms Inc (ID: 2252)
+    , 
+    
+
+20. Sacred Gate Farm (ID: 1377)
+    Apollo, Pennsylvania
+    https://www.facebook.com/SacredGateFarms
+
+
+AGENT_6 - 20 farms:
+----------------------------------------
+ 1. Lockbriar Farms (ID: 1285)
+    Chestertown, Maryland
+    http://www.lockbriarfarms.com/
+
+ 2. Blue Moon Farm (ID: 1417)
+    Mobile, Alabama
+    http://www.bluemoonfarm-grandbay.com/
+
+ 3. Aufdenkampe Family Farm (ID: 1512)
+    Vermilion, Ohio
+    http://www.afamilyfarm.com/
+
+ 4. Reeves Farms - Fruit Stand and Pick Your Own (ID: 1528)
+    Baldwinsville, New York
+    http://www.reevesfarms.com/
+
+ 5. Wesley Wells Farms (ID: 2480)
+    , 
+    https://wesleywellsfarm.com/
+
+ 6. Palmer's Farm (ID: 1320)
+    Greensburg, Pennsylvania
+    http://www.palmersfarm.com/
+
+ 7. South Coast Farms (U-Pick Farm) (ID: 2023)
+    San Juan Capistrano, California
+    http://southcoastfarms.com/
+
+ 8. Sleepy Hills Orchard (ID: 2013)
+    Johnson, New York
+    http://www.sleepyhillsorchard.com/
+
+ 9. Wayside Fruit & Vegetable (ID: 2479)
+    , 
+    https://www.facebook.com/PinecrestWaysideMarket/
+
+10. Acres of Grace Family Farms (ID: 2199)
+    , 
+    https://linktr.ee/AcresOfGrace
+
+11. Isaac Farms (ID: 2332)
+    , 
+    https://isaacfarms.com/
+
+12. WOW U-Pick Farms, LLC (ID: 1726)
+    Krum, Texas
+    https://www.facebook.com/@wowupickfarm
+
+13. Pacetti Farms (ID: 2388)
+    , 
+    
+
+14. HNH Blueberry Farm (ID: 1003)
+    Palatka, Florida
+    https://www.facebook.com/HNH-Blueberry-Farm-1489358884610404/
+
+15. Taylor River Side Farm (ID: 1428)
+    Cinnaminson, New Jersey
+    http://www.taylorsfarm.org/
+
+16. KSR International Inc Farm (ID: 2348)
+    , 
+    
+
+17. Sharky's Orchard (ID: 1816)
+    Appleton, Wisconsin
+    https://sharkysorchard.godaddysites.com/
+
+18. Patrick's Berry Farm (ID: 2131)
+    Camino, California
+    
+
+19. Blueberry Hill U-Pick (ID: 1523)
+    Sanford, North Carolina
+    https://www.facebook.com/blueberryhillupick
+
+20. Jessie's Tropical Fruit Farm (ID: 2170)
+    Naples, Florida
+    https://lovetropicalfruit.com/
+
+
+AGENT_7 - 20 farms:
+----------------------------------------
+ 1. Driving Wind Berry Farm (ID: 907)
+    Indianapolis, Indiana
+    https://www.drivingwindberryfarm.com/
+
+ 2. Blues Berry Farm, LLC (ID: 1752)
+    Plant City, Florida
+    http://bluesberryfarm.com/
+
+ 3. Earth 'n' Us Farm (ID: 2270)
+    , 
+    
+
+ 4. Guldseth Cherry Orchards (ID: 1570)
+    Cherry Valley, California
+    https://www.guldsethcherryorchard.com/
+
+ 5. FELICIA'S FARMS (ID: 2287)
+    , 
+    
+
+ 6. Pochuck Valley Farms of Augusta (ID: 1409)
+    Augusta, New Jersey
+    
+
+ 7. AVEnue, Orchard. (ID: 1826)
+    Eau Claire, Wisconsin
+    http://aveappleorchard.com/
+
+ 8. Pinnacle Farm South (ID: 1994)
+    Phoenix, Arizona
+    http://www.phoenixpinnaclefarms.com/
+
+ 9. Stone View Farm (ID: 1531)
+    Darlington, Maryland
+    https://stoneviewfarm.com/
+
+10. Langmar Farms (ID: 2354)
+    , 
+    https://www.facebook.com/langmarfarms
+
+11. Jessica's Organic Farm (ID: 2335)
+    , 
+    http://www.jessicasorganicfarm.com/
+
+12. Paugh's Orchard (ID: 850)
+    Quicksburg, Virginia
+    
+
+13. Your Farm & Garden (ID: 2490)
+    , 
+    https://yourfarmandgarden.com/
+
+14. Weymouth Farms & Orchard, Winery (ID: 1880)
+    Hinckley, Ohio
+    http://www.weymouthfarms.com/
+
+15. By Their Fruits (ID: 2242)
+    , 
+    
+
+16. Cabalo's Orchard and Gardens (ID: 1033)
+    Kuna, Idaho
+    http://www.cabalosorchard.com/
+
+17. Schartner Farms (ID: 1422)
+    North Conway, New Hampshire
+    
+
+18. Thistlehair Farm (ID: 1971)
+    Union, Kentucky
+    https://www.facebook.com/pages/Thistlehair-Farm/902532216536491
+
+19. Deep Spring Farm (ID: 1844)
+    Alachua, Florida
+    https://www.deepspringfarm.com/
+
+20. Merrick Farm (ID: 1700)
+    Rosedale, New York
+    
+
+
+AGENT_8 - 20 farms:
+----------------------------------------
+ 1. Scenic Ridge Fruit Farm (ID: 1308)
+    Jeromesville, OH
+    http://www.baumanorchards.com/locations/scenic-ridge/
+
+ 2. Philip Orchards (ID: 1703)
+    Claverack, New York
+    https://philiporchardsny.com/
+
+ 3. Mabry Farm (ID: 1365)
+    Marietta, Georgia
+    
+
+ 4. Brave Harvest Farm (ID: 2237)
+    , 
+    http://www.braveharvest.org/
+
+ 5. DJ's U-Pick Blueberry Farm (ID: 1331)
+    Lawrenceville, Georgia
+    http://www.djsupickblueberries.com/
+
+ 6. Joshua Citrus Inc (ID: 2339)
+    , 
+    https://www.joshuacitrus.com/
+
+ 7. Braddock Farms - Grow Pittsburgh (ID: 1454)
+    Braddock, Pennsylvania
+    http://www.growpittsburgh.org/
+
+ 8. Williams U Pick Blueberry Farm (ID: 1459)
+    Mims, Florida
+    https://www.williamsblueberryfarm.com/
+
+ 9. Beck Brothers Citrus Inc (ID: 2214)
+    , 
+    https://www.facebook.com/Beck-Brothers-blueberries-U-Pick-121170221296165/
+
+10. North Florida Farms (ID: 2380)
+    , 
+    http://www.northfloridafarms.org/contact-us/
+
+11. Farm Wagon (ID: 1539)
+    East Earl, Pennsylvania
+    https://pennfarmers.com/farm-wagon-produce/
+
+12. Holland Farms (ID: 2329)
+    , 
+    http://www.hollandfarmsonline.com/
+
+13. Clear Spring Farm (ID: 2107)
+    Easton, Pennsylvania
+    http://www.clearspringfarmllc.com/
+
+14. SunBerry Orchard's Fruit Haven (ID: 1639)
+    Woodstock, Illinois
+    http://sunberryorchardfarm.com/
+
+15. Hansel Hill Farm (ID: 1617)
+    Millersville, Maryland
+    http://hanselhillfarm.com/
+
+16. Duryea Farm (ID: 1853)
+    Monsey, New York
+    
+
+17. Honeys Blueberry Farm (ID: 1993)
+    Loudon, Tennessee
+    http://honeysblueberryfarm.com/
+
+18. Twin Oak Farms (ID: 2138)
+    Stockton, Maryland
+    http://www.twinoakfarmsmd.com/
+
+19. Great Scott Farms (ID: 2308)
+    , 
+    http://visitgreatscott.com/
+
+20. Lewis Educational Agricultural Farm (The LEAF) (ID: 2165)
+    Southington, Connecticut
+    http://leafct.com/
+
+
+AGENT_9 - 20 farms:
+----------------------------------------
+ 1. Dirty Girl Farm (ID: 1442)
+    Andes, New York
+    https://www.dirtygirlfarmandesny.com/
+
+ 2. Lyrenes Blueberry Farm (ID: 1718)
+    Fairhope, AL
+    https://www.facebook.com/lyrenefarm
+
+ 3. Rhynard Blueberry Farm (ID: 1668)
+    Shepherd, Michigan
+    http://www.rhynardsblueberryfarm.com/
+
+ 4. Keep Growing Detroit Farm (ID: 1321)
+    Detroit, Michigan
+    http://detroitagriculture.net/
+
+ 5. Brook Hill Farm (ID: 1914)
+    Unadilla, New York
+    
+
+ 6. Ahavah Farm (ID: 1040)
+    Peyton, Colorado
+    http://www.ahavahfarm.com/
+
+ 7. Tropical Acres Farms, Inc - Mangoes, Avocados, Sapodillas & Mangos Trees (ID: 2463)
+    , 
+    http://www.tropicalacresfarms.com/
+
+ 8. Pappy's Patch (ID: 2389)
+    , 
+    https://www.facebook.com/pappysstrawberries/
+
+ 9. Mariner Farms Llc (ID: 1680)
+    Downingtown, Pennsylvania
+    https://www.marinerfarmsllc.com/
+
+10. Tropical Village Farm (ID: 2464)
+    , 
+    
+
+11. Pick A Chick Store (ID: 960)
+    Cortlandt, New York
+    https://pickachickfarm.com/
+
+12. Rocky Top Fruit Farm (ID: 1335)
+    Payson, Utah
+    https://rockytopfruit.com/
+
+13. Doyle's Farm (ID: 1310)
+    Neshanic Station, New Jersey
+    https://doylesfarm.com/
+
+14. Sweet Life Farms (ID: 1677)
+    Plant City, Florida
+    https://www.sweetlifefarms.com/
+
+15. Walking Bird Farm (ID: 1328)
+    Egg Harbor City, New Jersey
+    http://www.walkingbirdfarm.com/
+
+16. Walnut Creek Farm Texas (ID: 1202)
+    Alvarado, Texas
+    https://www.walnutcreekfarmtexas.com/
+
+17. Kreider Farms - Farm Shop (ID: 1894)
+    Manheim, Pennsylvania
+    https://www.kreiderfarms.com/
+
+18. Gamble Creek Farms (ID: 2300)
+    , 
+    https://www.gamblecreekfarms.com/
+
+19. Spooner Berry Farms Blueberry U-Pick (ID: 1697)
+    Olympia, Washington
+    https://spoonerberryfarms.com/
+
+20. Sleights Berry Farm Inc (ID: 1785)
+    Mulino, Oregon
+    https://upickfarmsusa.com/or/clackamas-county/sleights-berry-farm/
+
+
+AGENT_10 - 20 farms:
+----------------------------------------
+ 1. Branchton Farms Produce (ID: 2236)
+    , 
+    https://branchtonfarmsproduce.company.site/
+
+ 2. Story Hill Farm (ID: 1645)
+    Frankford, Delaware
+    https://www.storyhillmoos.com/
+
+ 3. Rettig Farms (ID: 1467)
+    Grand Junction, Colorado
+    
+
+ 4. South Naples Citrus Grove (ID: 2426)
+    , 
+    http://www.naplescitrus.com/
+
+ 5. Sweet Orchard (ID: 2437)
+    , 
+    https://www.sweetorchard.com/
+
+ 6. Aunt Zelma's Blueberries (ID: 2209)
+    , 
+    http://www.auntzelmasblueberries.com/contact/
+
+ 7. Sweet Roots Farm LLC (Charlotte Berry Farm) (ID: 1707)
+    Charlotte, Vermont
+    http://www.sweetrootsvt.com/
+
+ 8. U-Pick Strawberries (ID: 2071)
+    Hendersonville, North Carolina
+    https://www.facebook.com/Obermillers-Strawberry-Farm-103833226386456/
+
+ 9. River City Farms (ID: 1595)
+    Grand Ledge, Michigan
+    
+
+10. Derrick Farms (ID: 1385)
+    Oakham, Massachusetts
+    
+
+11. Cloudview Farm (ID: 2123)
+    Ephrata, Washington
+    http://cloudviewfarm.org/
+
+12. Klim's Orchard (ID: 1949)
+    Lake Ariel, Pennsylvania
+    
+
+13. Berry Creek Farm (ID: 2108)
+    Westfield, Vermont
+    http://www.berrycreekfarmvt.com/
+
+14. Chicory Meadow Farm (ID: 2080)
+    Cortlandt, New York
+    https://www.chicorymeadowstableandhorsefarm.com/
+
+15. A Natural Farm and Educational Center (ID: 2197)
+    , 
+    http://www.anaturalfarm.com/
+
+16. Phoenix Fruit Farm (ID: 1300)
+    Belchertown, Massachusetts
+    http://www.phoenixfruitfarm.com/
+
+17. EBF - Farms (Eenigenburg's Berry Farm) North side (ID: 1393)
+    De Motte, Indiana
+    http://northberryfarm.com/
+
+18. Champaign Berry Farm (ID: 1314)
+    Urbana, Ohio
+    http://www.champaignberryfarm.com/
+
+19. Last Resort Farm (ID: 2060)
+    Bristol, Vermont
+    http://www.lastresortfarm.com/
+
+20. Parkers Orchard (ID: 1916)
+    Moravian Falls, North Carolina
+    https://www.facebook.com/pages/category/Fruit---Vegetable-Store/Parkers-Orchard-1282474471765757/
+

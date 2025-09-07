@@ -1,0 +1,374 @@
+FINAL IMPROVED FARM RESEARCH RESULTS
+==================================================
+Research completed: 2025-09-07 05:48:57.695542
+Improved research conducted with mandatory Google searches
+Total farms re-researched: 100
+Total CSV improvements made: 93
+
+IMPROVED RESULTS SUMMARY:
+- Farms with U-Pick: 73 (was much lower before)
+- Farms without U-Pick: 16
+- Farms with unknown status: 4 (dramatically reduced)
+
+METHODOLOGY IMPROVEMENTS:
+- Mandatory Google searches: "[Farm Name] + u-pick"
+- Secondary location searches: "[Farm Name] + [City] + [State] + u-pick"
+- Website verification when available
+- Social media presence checks
+- Farm directory cross-references
+
+DETAILED IMPROVED FINDINGS:
+==================================================
+
+Farm ID 1111: Yes
+  Offerings: strawberries; apples; other seasonal fruits
+  Source: http://lymanorchards.com/orchard/pick-your-own/strawberries/
+
+Farm ID 1112: Yes
+  Offerings: pumpkins
+  Source: https://yworryfarm.com/
+
+Farm ID 1113: Yes
+  Offerings: strawberries
+  Source: https://www.applefarm.com/
+
+Farm ID 1114: Yes
+  Offerings: apples; peaches; pumpkins
+  Source: https://johnnyappleseedsfarm.com/
+
+Farm ID 1115: Yes
+  Offerings: strawberries
+  Source: https://www.raulandfamilyfarm.com/
+
+Farm ID 1116: Yes
+  Offerings: apples; grapes
+  Source: https://wheelersorrchard.com/
+
+Farm ID 1117: Yes
+  Offerings: strawberries; blackberries; blueberries
+  Source: https://agapehouseberryfarm.com/
+
+Farm ID 1118: Yes
+  Offerings: apples
+  Source: https://breezehillfarm.com/
+
+Farm ID 1120: Yes
+  Offerings: blueberries
+  Source: https://www.sauvieislandblueberries.com/
+
+Farm ID 1121: No
+  Source: https://www.mistyvalleyfarms.com/ - farm stand/produce market only
+
+Farm ID 1122: Yes
+  Offerings: apples
+  Source: https://gravesmountain.com/
+
+Farm ID 1123: Yes
+  Offerings: apples; pumpkins
+  Source: https://kleinkesfarm.com/
+
+Farm ID 1124: Yes
+  Offerings: various organic vegetables and fruits (volunteer-based)
+  Source: https://www.alemanyfarm.org/
+
+Farm ID 1126: Yes
+  Offerings: strawberries; sweet corn; tomatoes; pumpkins
+  Source: https://hannfarms.com/
+
+Farm ID 1127: Yes
+  Offerings: strawberries; raspberries; marionberries
+  Source: https://aldersyde.com/
+
+Farm ID 1128: Unknown
+  Source: https://hutchinsfarm.com/ - certified organic farm with suitable crops but unclear u-pick operations
+
+Farm ID 1129: Yes
+  Offerings: blueberries
+  Source: https://www.sweetseason.com/
+
+Farm ID 1130: Yes
+  Offerings: apples; strawberries
+  Source: https://northwoodsorchards.com/
+
+Farm ID 1131: Yes
+  Offerings: strawberries; blueberries; peaches; raspberries; pears; apples; pumpkins; flowers
+  Source: https://bishopsorchards.com/pick-your-own/about/
+
+Farm ID 1132: Yes
+  Offerings: strawberries; blueberries; sunflowers; wildflowers; pumpkins
+  Source: https://www.virginiablackfarmerdirectory.com/farmers/hidden-gems-farm
+
+Farm ID 1136: Yes
+  Offerings: apples (McIntosh, Cortland, Honey Gold, and 20+ other varieties)
+  Source: https://www.travelwisconsin.com/farm-markets-pick-your-own/oneida-nation-apple-orchard-192310
+
+Farm ID 1138: Yes
+  Offerings: blueberries (9 varieties of highbush blueberries)
+  Source: https://berryboggfarm.com/
+
+Farm ID 1139: No
+  Source: https://www.yelp.com/biz/orchard-heritage-park-sunnyvale - heritage preservation site, no public picking allowed
+
+Farm ID 1141: Yes
+  Offerings: apples (Gala, Honeycrisp, McIntosh, Jonathan); pumpkins
+  Source: https://countylineorchard.com/
+
+Farm ID 1143: Yes
+  Offerings: strawberries
+  Source: https://www.explorelouisiana.com/agritourism/landry-poche-farm
+
+Farm ID 1149: No
+  Source: https://www.potomacvegetablefarms.com/ - CSA and farm stand, no field picking
+
+Farm ID 1151: No
+  Source: https://zekiahfarms3.com/ - livestock farm with CSA, no u-pick
+
+Farm ID 1152: Yes
+  Offerings: blueberries; blackberries; raspberries
+  Source: https://hybridomafarm.com/
+
+Farm ID 1153: Yes
+  Offerings: red raspberries; black raspberries; blackberries; apples; pumpkins; sunflowers
+  Source: https://www.columbusonthecheap.com/lynd-fruit-farm/
+
+Farm ID 1154: Yes
+  Offerings: strawberries; black raspberries
+  Source: https://stokesberryfarm.com/
+
+Farm ID 1155: Yes
+  Offerings: strawberries; beans; cherry tomatoes; flowers; herbs (CSA members only)
+  Source: https://www.localharvest.org/pennypack-farm-education-center-M5261
+
+Farm ID 1156: No
+  Source: https://bialasfarms.com/ - CSA shares and farm stand with pre-harvested produce
+
+Farm ID 1157: Yes
+  Offerings: blueberries
+  Source: https://www.richberryfarm.com/
+
+Farm ID 1158: Yes
+  Offerings: cherries; apples (seasonal)
+  Source: https://www.leveringorchard.com/
+
+Farm ID 1159: No
+  Source: https://pipersorchard.org/ - historic public orchard, foraging against park code
+
+Farm ID 1161: Yes
+  Offerings: cherries; peaches; nectarines; plums; prunes; apples; pears; quince; persimmons
+  Source: https://sherwoodorchards.com/
+
+Farm ID 1163: Yes
+  Offerings: strawberries; raspberries; pumpkins
+  Source: https://www.facebook.com/WhitefishStageOrganicFarms/
+
+Farm ID 1164: Yes
+  Offerings: cherries; peaches; nectarines; berries; apricots; apples
+  Source: https://gemorchards.com/
+
+Farm ID 1166: Yes
+  Offerings: strawberries; blueberries; blackberries; gooseberries; tart cherries; peaches; apples; pumpkins
+  Source: http://thierbachorchards.com/
+
+Farm ID 1167: No
+  Source: https://www.wildhareorganicfarm.com/ - primarily CSA and farm stand
+
+Farm ID 1169: Yes
+  Offerings: apples; pumpkins; squash; gourds
+  Source: https://clearvieworchards.com/
+
+Farm ID 1170: Yes
+  Offerings: apples; blueberries; raspberries
+  Source: https://www.jqfruitfarm.com/
+
+Farm ID 1171: Yes
+  Offerings: cherries (Bing; Brooks; Coral Champagne; Lapin; Tulare)
+  Source: https://www.chinchiolofarming.com/pages/lodi-blooms
+
+Farm ID 1173: No
+  Source: https://holleydale.com/ - farm market and greenhouse operation
+
+Farm ID 1174: Unknown
+  Source: Limited information available, no current operational details found
+
+Farm ID 1176: Yes
+  Offerings: blackberries; raspberries; boysenberries
+  Source: https://www.webbranchinc.com/u-pick-berries.html
+
+Farm ID 1177: Yes
+  Offerings: strawberries; raspberries; flowers (u-cut)
+  Source: https://upickfarmsusa.com/mi/tuscola-county/pennell-farms/
+
+Farm ID 1178: Yes
+  Offerings: apples
+  Source: http://rexyoungsorchard.wixsite.com/youngs
+
+Farm ID 1179: No
+  Source: https://ohioamishcountry.biz/business/blessings-acres-produce/ - roadside produce stand
+
+Farm ID 1180: Unknown
+  Source: https://www.cureorganicfarm.com - primarily CSA and farm stand, unclear U-pick status
+
+Farm ID 1181: Yes
+  Offerings: blueberries
+  Source: https://www.tevepaughorchards.com/
+
+Farm ID 1182: No
+  Source: Google search - meat farm, no u-pick services
+
+Farm ID 1183: Yes
+  Offerings: vegetables; fruits
+  Source: https://www.miufi.org/
+
+Farm ID 1184: Yes
+  Offerings: strawberries; blackberries; peaches; cherries; sand plums; apples; pumpkins
+  Source: https://sargeantsfarm.com/
+
+Farm ID 1186: Yes
+  Offerings: strawberries; edible pod peas; blueberries; fresh cut flowers
+  Source: https://gladelinkfarms.com/
+
+Farm ID 1187: Yes
+  Offerings: strawberries; blackberries; blueberries; tomatoes
+  Source: https://freedomhousefarm.com/
+
+Farm ID 1188: No
+  Source: https://lakesidefarms.net/ - no u-pick services found
+
+Farm ID 1189: Yes
+  Offerings: sweet cherries; plums; blueberries; apples; pumpkins
+  Source: https://meadfarm.com/
+
+Farm ID 1190: Yes
+  Offerings: blueberries; blackberries
+  Source: https://creeksidefarm.org/
+
+Farm ID 1191: Yes
+  Offerings: strawberries; blueberries; corn; tomatoes
+  Source: https://popesstrawberryfarm.com/
+
+Farm ID 1192: Yes
+  Offerings: pumpkins
+  Source: https://5gfarms.com/
+
+Farm ID 1193: No
+  Source: https://ruzyckifarms.com/ - farm store only
+
+Farm ID 1194: Yes
+  Offerings: blueberries
+  Source: https://kidstopia.com/
+
+Farm ID 1195: Yes
+  Offerings: blueberries; citrus; figs; asian pears; asian persimmons; jujubes; loquats; peaches
+  Source: https://harvestseasonfarm.com/
+
+Farm ID 1198: No
+  Source: https://closterfarm.com/ - farm stand only
+
+Farm ID 1199: Yes
+  Offerings: blueberries
+  Source: https://mikesblueberries.com/
+
+Farm ID 1202: No
+  Source: https://walnutcreekfarmtx.com/ - farm store and delivery only
+
+Farm ID 1204: Yes
+  Offerings: asparagus; beans; beets; blackberries; broccoli; carrots; corn; cucumbers; eggplant; flowers; melons; onions; peas; peppers; pumpkins; raspberries; rhubarb; squash; strawberries; tomatoes
+  Source: https://happyhollowupick.com/
+
+Farm ID 1205: Yes
+  Offerings: pumpkins
+  Source: https://puckervillefarms.com/
+
+Farm ID 1207: Yes
+  Offerings: blueberries; cherries; apricots; blackberries; peaches; raspberries; strawberries; walnuts
+  Source: https://alpinebluefarm.com/
+
+Farm ID 1208: Yes
+  Offerings: blueberries
+  Source: https://defarmonblueberryhill.com/
+
+Farm ID 1242: Yes
+  Offerings: pumpkins; strawberries; peaches
+  Source: https://auburnpumpkinpatch.com/
+
+Farm ID 1254: Yes
+  Offerings: apples; strawberries; peaches; flowers
+  Source: https://www.beesandtrees.biz/
+
+Farm ID 1268: Yes
+  Offerings: blueberries (organic)
+  Source: Google search results - Higher Taste Blueberry Farm Auburn WA
+
+Farm ID 1273: Yes
+  Offerings: flowers (u-pick flower fields); pears
+  Source: http://www.virginiagoldorchard.com/
+
+Farm ID 1274: Yes
+  Offerings: blueberries; blackberries; raspberries
+  Source: https://www.berryhillfarm.com/
+
+Farm ID 1275: Yes
+  Offerings: strawberries; blueberries (organic)
+  Source: https://chandlerpondfarm.com/
+
+Farm ID 1276: No
+  Source: https://burekfarms.com/ - farmers market/farm stand only
+
+Farm ID 1278: Yes
+  Offerings: strawberries; raspberries; blackberries; blueberries; olallieberries; vegetables; flowers (all organic)
+  Source: https://tru2earthfarm.net/
+
+Farm ID 1279: Yes
+  Offerings: flowers; pumpkins
+  Source: https://bunnellfarm.com/
+
+Farm ID 1280: Yes
+  Offerings: strawberries; cherries; blueberries; peaches; apples; grapes
+  Source: https://www.richjohnsonfarm.com/
+
+Farm ID 1281: Yes
+  Offerings: apples; various vegetables
+  Source: https://www.goodmanfarms.com/
+
+Farm ID 1282: Yes
+  Offerings: blueberries
+  Source: https://www.facebook.com/yanceyblueberry/
+
+Farm ID 1283: Yes
+  Offerings: blueberries (rabbiteye variety); muscadines
+  Source: https://theblueberryfarm.com/
+
+Farm ID 1284: Yes
+  Offerings: apples (15+ varieties); pumpkins
+  Source: https://www.peckfarmorchard.com/
+
+Farm ID 1285: Yes
+  Offerings: strawberries; blueberries; blackberries; peaches; flowers; herbs
+  Source: https://lockbriarfarms.com/
+
+Farm ID 1287: Yes
+  Offerings: blueberries
+  Source: https://www.onceinablueemoonfarm.com/
+
+Farm ID 1288: Yes
+  Offerings: apples
+  Source: https://www.carlsonsfarmstand.com/
+
+Farm ID 1289: Unknown
+  Source: Despite extensive searching, no specific evidence found for u-pick operations
+
+Farm ID 1290: No
+  Source: https://whiteplainsorchids.com/ - retail orchid nursery only
+
+Farm ID 1291: Yes
+  Offerings: raspberries; blueberries; strawberries (varies by year)
+  Source: https://www.facebook.com/anniesberryfarm/
+
+Farm ID 1294: Yes
+  Offerings: apples; cherries; peaches; pumpkins
+  Source: https://www.prospecthill.com/
+
+Farm ID 1295: Yes
+  Offerings: strawberries; raspberries; blueberries; apples; blackberries
+  Source: https://www.bonacorsifarms.com/
+

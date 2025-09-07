@@ -1,0 +1,68 @@
+
+==================================================
+Farm Research Updates - 2025-09-07 04:47:10.590351
+==================================================
+Total updates made: 0
+
+Farm ID 1421: Yes
+  Offerings: strawberries; cherries; blueberries; peaches; apples
+  Source: https://upickfarmsusa.com/in/tippecanoe-county/annies-orchard/
+
+Farm ID 1137: No
+  Source: https://www.twinoaksfarm.com/ - equine therapy, not agricultural u-pick
+
+Farm ID 1142: No
+  Source: https://www.greenmeadowfarm.org/ - horse mentoring, no u-pick
+
+Farm ID 1150: No
+  Source: https://www.localharvest.org/pleasant-valley-farm-M18676 - farmers markets only
+
+Farm ID 1160: No
+  Source: http://pinehillfarmvegetables.org/ - farm stand only, not U-Pick
+
+Farm ID 1162: No
+  Source: https://www.greenhillsfarm.net/ - rental accommodations, not agricultural
+
+Farm ID 1165: No
+  Source: https://www.rollingmeadowsfarm.com/ - horse breeding, not U-Pick
+
+Farm ID 1172: No
+  Source: https://www.meadowridgefarm.com/ - wedding venue, not agricultural
+
+Farm ID 1175: No
+  Source: https://www.countrymeadowfarm.com/ - horse breeding, wrong location
+
+
+==================================================
+Farm Research Updates - 2025-09-07 04:47:36.425891
+==================================================
+Total updates made: 7
+
+Farm ID 1421: Yes
+  Offerings: strawberries; cherries; blueberries; peaches; apples
+  Source: https://upickfarmsusa.com/in/tippecanoe-county/annies-orchard/
+
+Farm ID 1137: No
+  Source: https://www.twinoaksfarm.com/ - equine therapy, not agricultural u-pick
+
+Farm ID 1142: No
+  Source: https://www.greenmeadowfarm.org/ - horse mentoring, no u-pick
+
+Farm ID 1150: No
+  Source: https://www.localharvest.org/pleasant-valley-farm-M18676 - farmers markets only
+
+Farm ID 1160: No
+  Source: http://pinehillfarmvegetables.org/ - farm stand only, not U-Pick
+
+Farm ID 1162: No
+  Source: https://www.greenhillsfarm.net/ - rental accommodations, not agricultural
+
+Farm ID 1165: No
+  Source: https://www.rollingmeadowsfarm.com/ - horse breeding, not U-Pick
+
+Farm ID 1172: No
+  Source: https://www.meadowridgefarm.com/ - wedding venue, not agricultural
+
+Farm ID 1175: No
+  Source: https://www.countrymeadowfarm.com/ - horse breeding, wrong location
+

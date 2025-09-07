@@ -1,0 +1,618 @@
+COMPREHENSIVE FARM RESEARCH RESULTS
+==================================================
+Research completed: 2025-09-07 05:00:59.436179
+Total farms researched: 200
+Total CSV updates made: 159
+
+SUMMARY:
+- Farms with U-Pick: 19
+- Farms without U-Pick: 15
+- Farms with unknown status: 161
+
+DETAILED FINDINGS:
+==================================================
+
+Farm ID 1097: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1098: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1099: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1100: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1101: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1102: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1103: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1104: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1105: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1106: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1107: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1108: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1109: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1110: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1111: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1112: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1113: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1114: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1115: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1116: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1117: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1118: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1119: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1120: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1121: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1122: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1123: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1124: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1125: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1126: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1127: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1128: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1129: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1130: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1131: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1132: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1133: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1134: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1135: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1136: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1137: No
+  Source: https://www.twinoaksfarm.com/ - equine therapy, not agricultural u-pick
+
+Farm ID 1138: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1139: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1140: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1141: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1142: No
+  Source: https://www.greenmeadowfarm.org/ - horse mentoring, no u-pick
+
+Farm ID 1143: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1144: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1145: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1146: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1147: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1148: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1149: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1150: No
+  Source: https://www.localharvest.org/pleasant-valley-farm-M18676 - farmers markets only
+
+Farm ID 1151: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1152: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1153: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1154: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1155: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1156: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1157: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1158: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1159: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1160: No
+  Source: http://pinehillfarmvegetables.org/ - farm stand only, not U-Pick
+
+Farm ID 1161: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1162: No
+  Source: https://www.greenhillsfarm.net/ - rental accommodations, not agricultural
+
+Farm ID 1163: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1164: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1165: No
+  Source: https://www.rollingmeadowsfarm.com/ - horse breeding, not U-Pick
+
+Farm ID 1166: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1167: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1168: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1169: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1170: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1171: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1172: No
+  Source: https://www.meadowridgefarm.com/ - wedding venue, not agricultural
+
+Farm ID 1173: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1174: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1175: No
+  Source: https://www.countrymeadowfarm.com/ - horse breeding, wrong location
+
+Farm ID 1176: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1177: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1178: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1179: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1180: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1181: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1182: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1183: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1184: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1185: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1186: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1187: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1188: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1189: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1190: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1191: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1192: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1193: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1194: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1195: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1196: Unknown
+  Source: No information found
+
+Farm ID 1197: Yes
+  Offerings: fruits (pick-your-own fruit share)
+  Source: https://www.sunrisefarmvt.com/sign-up-1/vegetable-csa-share-and-pick-your-own-fruit-share
+
+Farm ID 1198: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1199: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1200: No
+  Source: Website is for puppy breeding, not crops
+
+Farm ID 1201: No
+  Source: Website shows livestock/poultry farm, not U-Pick crops
+
+Farm ID 1202: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1203: No
+  Source: https://www.mapleridgefarm.net/ - offers farm products but no U-Pick mentioned
+
+Farm ID 1204: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1205: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1206: No
+  Source: Website shows livestock/product farm, no U-Pick mentioned
+
+Farm ID 1207: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1208: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1209: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1210: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1211: Yes
+  Offerings: blueberries
+  Source: http://www.blueskyfarmwinery.com/u-pick-blueberries/
+
+Farm ID 1212: Yes
+  Offerings: various farm produce
+  Source: https://river-bend-farm.com/
+
+Farm ID 1213: Yes
+  Offerings: strawberries; raspberries; pumpkins
+  Source: https://www.oakgrovefarmsinc.com/
+
+Farm ID 1214: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1215: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1216: Yes
+  Offerings: blueberries
+  Source: https://upickfarmsusa.com/nh/rockingham-county/blueberry-bay-farm/
+
+Farm ID 1217: Yes
+  Offerings: cherries
+  Source: https://www.gavinorchards.com
+
+Farm ID 1219: Yes
+  Offerings: blueberries
+  Source: https://oregonblues.farm/
+
+Farm ID 1220: Yes
+  Offerings: strawberries; cherries
+  Source: https://www.visitmanisteecounty.com/web-2-0-directory/calvin-lutz-farms
+
+Farm ID 1221: Yes
+  Offerings: flowers
+  Source: https://www.wildberryfarmmarket.com/farm-events
+
+Farm ID 1222: Yes
+  Offerings: strawberries; apples; raspberries
+  Source: https://www.facebook.com/cavannasfarm1903/
+
+Farm ID 1223: Yes
+  Offerings: blueberries; blackberries; apples
+  Source: https://www.sunshinevalleyfarm.com
+
+Farm ID 1224: No
+  Source: Confirmed via TripAdvisor - apples are pre-picked only
+
+Farm ID 1225: Yes
+  Offerings: apples; strawberries; cherries; blueberries; pumpkins
+  Source: https://seamansorchard.com/
+
+Farm ID 1226: Yes
+  Offerings: blueberries
+  Source: https://www.facebook.com/Omodts
+
+Farm ID 1227: Yes
+  Offerings: blueberries
+  Source: https://youpickblueberries.net/
+
+Farm ID 1230: Yes
+  Offerings: strawberries; blueberries
+  Source: https://www.facebook.com/lavignesstrawberryfarm/
+
+Farm ID 1232: Yes
+  Offerings: blueberries
+  Source: https://wendellblueberryfarm.com/
+
+Farm ID 1234: Yes
+  Offerings: blueberries; raspberries
+  Source: https://piperfarms.wixsite.com/info
+
+Farm ID 1235: Yes
+  Offerings: blackberries; watermelons; peaches; strawberries; pumpkins
+  Source: https://www.visitbuckscounty.com/listing/penn-vermont-fruit-farm/3789/
+
+Farm ID 1236: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1237: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1238: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1239: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1240: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1241: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1242: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1243: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1244: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1245: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1246: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1247: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1248: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1249: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1250: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1251: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1252: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1253: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1254: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1255: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1256: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1257: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1258: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1259: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1260: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1261: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1262: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1263: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1264: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1265: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1266: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1267: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1268: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1269: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1270: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1271: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1272: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1273: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1274: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1275: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1276: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1277: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1278: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1279: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1280: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1281: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1282: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1283: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1284: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1285: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1286: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1287: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1288: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1289: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1290: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1291: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1292: No
+  Source: https://highlandvalleyfarm.com/home - livestock farm, no U-Pick
+
+Farm ID 1293: No
+  Source: https://www.maplevalleyfarmvt.com/ - farm stand only, no U-Pick
+
+Farm ID 1294: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1295: Unknown
+  Source: No information found - website inaccessible or farm not verified
+
+Farm ID 1421: Yes
+  Offerings: strawberries; cherries; blueberries; peaches; apples
+  Source: https://upickfarmsusa.com/in/tippecanoe-county/annies-orchard/
+

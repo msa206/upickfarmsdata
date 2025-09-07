@@ -1,0 +1,13 @@
+Farm updates to apply to CSV:
+
+Row 644 (line 645): Jolo Farms and Services - No u-pick, source: https://www.facebook.com/Jolofarmsandservices/
+Row 645 (line 646): Narrow Lane Orchard - Yes, "apples, peaches, blackberries, blueberries, nectarines, kiwi berries", https://www.narrowlaneorchardri.com/
+Row 654 (line 655): Anderson Blues Farm - Yes, "blueberries", https://www.andersonbluesfarm.com/
+Row 679 (line 680): Driving Wind Berry Farm - Yes, "strawberries, blueberries, blackberries, apples, pumpkins", https://www.drivingwindberryfarm.com/
+Row 682 (line 683): Thierbach Orchards & Berry Farm - Yes, "strawberries, blueberries, cherries, blackberries, peaches, apples", http://thierbachorchards.com/
+Row 683 (line 684): Hamilton Family Orchards - Yes, "apples, peaches, nectarines", https://hamiltonfamilyorchards.com/
+Row 705 (line 706): Dickie Brothers Orchard - Yes, "apples, peaches, nectarines, blackberries, pumpkins", https://www.dickiebrothers.com/
+Row 706 (line 707): Baumhart Berry Farm - Yes, "strawberries, blueberries, blackberries", https://baumhartberryfarm.com/
+Row 707 (line 708): West Wind Farm at Blue Barn Cidery - Yes, "raspberries, blueberries, apricots, nectarines, peaches, plums, apples, pumpkins", http://www.westwindupick.com/
+Row 708 (line 709): Pick A Chick Store - No, "", https://pickachickfarm.com/
+Row 710 (line 711): Dickinson Farm and Greenhouse - Yes, "strawberries, blueberries, apples", https://www.dickinsonsfarm.com/

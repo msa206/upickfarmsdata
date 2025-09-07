@@ -1,0 +1,219 @@
+FARM RESEARCH LOG
+==================
+Started: September 7, 2025
+Purpose: Track farms being researched to avoid duplicates and monitor progress
+
+BATCH 1 - First 200 farms (Rows 658-926) - COMPLETED
+==============================================
+Status: COMPLETED - 169 farms updated in CSV
+
+BATCH 2 - Next 200 farms - COMPLETED
+====================================
+Status: COMPLETED - 194 farms researched using 10 parallel agents
+Completion Date: September 7, 2025
+
+Farms being researched in current batch:
+
+BATCH 2 FARMS (200 farms):
+==================================================
+Keller’s Farmstand
+Awe's Apple Orchard LLC
+Orchard Hill Farms
+Cecil Creek Farm
+Shenk's Berry Farm
+Morris Orchard
+Lynd Corn Maze
+Meadows Farms Nurseries and Landscape
+Chapin Farm
+Scott Farm Orchard
+Woods Edge Farm LLC
+Johnny Appleseed's Farm
+Montgomery Place Orchards
+Gulicks Fruit Farm LLC
+Kuner's Orchard
+Manfredi Farms
+Beilke Family Farm
+Gorman Farms CSA - Distribution Center
+Castle Hill Farm Inc
+Thunderbird Berry Farm
+Tree House Farm Brewery
+Sauchuk's Farmstand
+Harner Farm
+Jolo Farms and Services
+Narrow Lane Orchard
+Paugh's Orchard
+Anderson Blues | Farm Fresh Berries
+Twin Oaks Fun Farm
+Cordelia's Farm
+Berry Best Family Farm
+Driving Wind Berry Farm
+Williams Orchard
+Thierbach Orchards & Berry Farm
+Hamilton Family Orchards
+John & Linda's Fruit and Berry Farm
+Dickie Brothers Orchard
+Baumhart Berry Farm
+West Wind Farm at Blue Barn Cidery
+Pick A Chick Store
+Evans Farms
+Dickinson Farm and Greenhouse
+Spring Valley Orchard
+Grasshopper Farms
+Batey Farms
+Thompson's Cider Mill and Orchard
+Swistak Farm
+Juniperdale Farms
+Mayneland Farm
+3 Birds Berry Farm
+Zembrzycki Dairy Farm & Corn Maze
+Jenkins Orchards
+Thank You Berry Much Farms
+Stone Ridge Orchard
+Bacchini's Farm
+Flanagan Farms
+Frog Hollow Farm
+Okes Family Farms
+Nappe Farms- U Pick Blueberries
+Emmett's Orchard
+HNH Blueberry Farm
+Hollmeyer Orchards
+Sugar Shack Blueberry Farm
+Caldwell Idaho Orchards
+Voytko Farms
+Autumn Hills Orchard
+Pitney Meadows Community Farm
+S. E. Daugherty and Sons Farmstand
+Summer Breeze Farms
+Mira Fruit & Farm
+Mayberry Farms
+Henley's Orchard
+Harvest Valley Farms
+Pringles Orchard
+Blue Forest Farms
+Sunnybrook Apple Orchard
+DePiero’s Farm Stand & Greenhouses
+Hinton Farms
+Swift Creek Berry Farm
+Wegmeyer Farm - Oatland Strawberry Picking
+Ragged Hill Orchard
+Stokes Farm
+Summer Sweet Orchard
+Ollin Farms
+Fruit Valley Orchard
+Burton's Farm Blueberries
+Diederich Berry Farms
+Head's Farm
+Cabalo's Orchard and Gardens
+Tyler Berry Farm
+B B Citrus Farms
+Finnell Farms
+Douglas Orchards
+Rochambeau Farm
+Ahavah Farm
+Fruitwood Farms, Inc.
+Timberline Farms
+Dillon Fruit Farm
+Wohletz Farm Fresh
+The Rusty Plow Farm
+T & A Barbee Family Farm LLC
+Hust Roost Farm
+Ashley Creek Farm
+Brooks Farm Strawberry patch
+Pine Valley Farm
+Rocky Brook Orchard
+R&R Farms
+Wade's Orchard
+Crosswind Farms
+Upstream Gardens & Orchard
+Snuck Farm
+Defazio Orchard
+Root Orchards. Sweet Cherries
+Dug In Farms
+Farmhaus Farms
+Sunset Farm
+Norman's Orchard
+Unger Farms
+Applecrest Orchards
+Little Creek Farm
+Sun Valley Orchards
+Autumn Ridge Farm
+Blueberry Patch Farm
+Clearview Farm
+The Berry Farm
+Happy Valley Orchard
+Goffle Brook Farm & Garden Center
+Kinderhook Farm
+North Star Orchard LLC
+Smith Orchard
+Honey's Harvest Farm
+Meacham Urban Farm
+Stanley Family Farms U Pick Cherries
+Fix Bros Inc fruit farms
+Gooseberry Bridge Farm
+Farm.One
+Hilltop Hanover Farm & Environmental Center
+Fischer Farm
+Cucumber Hill Farm
+Reese Farms
+Lundberg Family Farms
+Lloyd's Family Farm
+Stone Tavern Orchards
+Jubilee Orchards
+Riverbed Farm
+Blueberry Thrill Farm
+Snell Family Farm
+Gizdich Apple Picking
+Hill’s Farm
+Mabe's Berry Farm
+Mt. Hood Organic Farms
+Slow Farm
+Frysville Farms
+Carmody's Farm
+AJ's Berry Farm
+Uluwehi Coffee Farm
+Granny May's Strawberry Farm
+lyman orchard strawberry field
+Y Worry Farm
+Apple Farm
+Johnny Appleseed's Farm
+Raul & Family Farm
+Wheeler's Orchard
+Agape House Berry Farm
+Breeze Hill Farm
+Sauvie Island Blueberry Farm
+Misty Valley Farms
+Graves Mountain Farm
+Kleinke's Farm
+Alemany Farm
+Hann Farms
+Burns Farm At Aldersyde
+Hutchins Farm
+Sweet Season Farm
+Northwoods Orchards
+Bishop's Orchard Blueberry Picking
+Hidden Gems Farm Va (FARM STORE HOURS ONLY)
+Koan's Orchard
+Narramore Farms
+Schneiders Farm
+Oneida Nation Apple Orchard
+Berrybogg Farm
+Orchard Heritage Park (Apricot Orchard Barn)
+County Line Orchard
+Grow Dat Youth Farm
+Landry Poche Strawberry Farm Inc
+Boice Farm
+Hyde Farms
+Whitehead’s Blueberry Farm, Inc.
+Home Farm UPick and Events LLC
+Potomac Vegetable Farms
+Ransom Sage Farm | Rt 44 | U-Pick farm
+Zekiah Farms3, LLC
+Hybridoma Organic Fruit Farm
+The Patch on 37 (Lynd Fruit Farm)
+Stokes Berry Farm
+Pennypack Farm & Education Center
+Bialas Farms
+Rich Berry Farm (NJ부자농장)
+Levering Orchard
+Piper's Orchard
+Keller's Farmstand - RESEARCHED
